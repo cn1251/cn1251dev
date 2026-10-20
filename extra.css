@@ -1,0 +1,23 @@
+#c-gear {
+width: 7.7em;
+height: 7.7em;
+background-image: url('https://avatars.githubusercontent.com/u/244764787?v=4');
+background-position: center center;
+background-repeat: no-repeat;
+background-size: contain;
+float: left;
+box-shadow: 0 0.3em 0.9em #CCC8B8;
+border-radius: 50%;
+}
+
+#mobile-c-gear {
+width: 4em;
+height: 4em;
+background-image: url('https://avatars.githubusercontent.com/u/244764787?v=4');
+background-position: center center;
+background-repeat: no-repeat;
+background-size: contain;
+float: left;
+box-shadow: 0 0.3em 0.9em #CCC8B8;
+border-radius: 50%;
+}
